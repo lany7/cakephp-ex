@@ -16,16 +16,16 @@
  */
 
 * {
-	margin:0;
-	padding:0;
+	margin:10;
+	padding:10;
 }
 
 /** General Style Info **/
 body {
-	background: #003d4c;
+	background: #F03d4F;
 	color: #fff;
 	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
-	font-size:90%;
+	font-size:10%;
 	margin: 0;
 }
 a {
